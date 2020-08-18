@@ -13,6 +13,6 @@
  * Kotlin
  * Mysql
 
-### Contacts
+### 📱 Contacts
  * [Play Store](https://play.google.com/store/apps/developer?id=retr0night) - retr0night
  * Discord - VINTO#6497
