@@ -12,6 +12,7 @@
  * React Native
  * Kotlin
  * Mysql
+ * GIMP
 
 ### 📱 Contacts
  * [Play Store](https://play.google.com/store/apps/developer?id=retr0night) - retr0night
