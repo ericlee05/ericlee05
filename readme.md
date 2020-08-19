@@ -7,13 +7,6 @@
  * 팀 페르마타 - BLE 기반 확진자 익명접촉안내 시스템
  * 소속할 팀 찾는중
 
-### 🧭 Stack
- * Typescript(+ Node.js)
- * React Native
- * Kotlin
- * Mysql
- * GIMP
-
 ### 📱 Contacts
  * [Play Store](https://play.google.com/store/apps/developer?id=retr0night) - retr0night
  * Discord - VINTO#6497
